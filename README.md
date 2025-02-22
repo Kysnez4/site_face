@@ -34,8 +34,7 @@
 
   
 ```
-data/
-  └── lfw-deepfunneled/
+  data/
     └── students/
       ├── person1/
       │  ├── image1.jpg
